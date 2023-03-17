@@ -36,3 +36,5 @@ En este bootcam se aprenderán muchas cosas acerca de la programación
 |------|-|-----|
 | cls |`clear; ls`| Limpia la terminal y lista los ficheros de la ruta actual |
 | cl |`clear`| Muestra los ficheros de la ruta actual |
+
+Este cambio es añadido en una rama diferente a la `main`.
