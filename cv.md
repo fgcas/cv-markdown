@@ -1,8 +1,15 @@
-# Frank Casanova
-Web Developer and Data Analyst
+### Hi there 👋
+
+- 🔭 I’m currently working on My Life
+- 🌱 I’m currently learning Programming
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: [Twitter](https://twitter.com/frank_casanovaa)# Frank Casanova
+Future Web Developer and Data Analyst
 
 ## ¿Quién soy?
 Hola mi nombre es Frank Casanova, soy estudiante del **Full-stack JavaScript** Developer dictado por el profesor *Guillermo Rodas*.
+
+En este bootcam se aprenderán muchas cosas acerca de la programación
 
 ### Contenido del Bootcamp
 
@@ -23,3 +30,9 @@ Hola mi nombre es Frank Casanova, soy estudiante del **Full-stack JavaScript** D
 | pwd | Muestra la ruta actual |
 | clear | Limpia la pantalla de la terminal |
 
+### Comandos alias 
+
+| Alias | Comando | Descripción |
+|------|-|-----|
+| cls |`clear; ls`| Limpia la terminal y lista los ficheros de la ruta actual |
+| cl |`clear`| Muestra los ficheros de la ruta actual |
